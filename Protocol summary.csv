@@ -1,0 +1,9 @@
+Protocol,Packets,Percentage
+Ethernet,150,100%
+ARP,10,6.6%
+IP,140,93.3%
+TCP,90,60%
+UDP,20,13.3%
+DNS,15,10%
+TLS,55,36.6%
+HTTP,5,3.3%
