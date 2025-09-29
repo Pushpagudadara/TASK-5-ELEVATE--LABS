@@ -1,0 +1,17 @@
+# Wireshark Display Filters Used - Task 5
+
+1. dns  
+   → To view DNS queries and responses.  
+
+2. tcp  
+   → To view TCP packets, including handshake.  
+
+3. tls  
+   → To view encrypted HTTPS traffic (TLS handshake).  
+
+4. arp  
+   → To view ARP requests and replies.  
+
+# Optional Filters:
+- http → If unencrypted HTTP traffic was generated.  
+- icmp → If ping was used to generate traffic.
